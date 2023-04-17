@@ -1,0 +1,2 @@
+# webbyToken
+WEBY Solana Token
